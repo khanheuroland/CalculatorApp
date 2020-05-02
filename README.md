@@ -1,6 +1,6 @@
 # Calculator Script Test on Android
 
-This is a practical Project to build TestScript for Android App. The simple Calculator app is used for create Automation Script.
+This is a practical Project to build TestScript for Android App. The simple Calculator app is used for create Automation Script. The apk can be downloaded from https://apkpure.com/calculator/com.google.android.calculator
 
 ## Basic Requirement
 
